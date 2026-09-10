@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Als u dit werk gebruikt, citeer het dan zoals hieronder."
+title: "Van welvaart naar welstand"
+subtitle: "Waarom maximale arbeidsparticipatie niet hetzelfde is als maximale maatschappelijke welvaart"
+type: report
+authors:
+  - family-names: Bos
+    given-names: Patrick
+date-released: 2026-09-10
+url: "https://github.com/PatrickBK/van-welvaart-naar-welstand"
+license: "CC-BY-4.0"
+abstract: "Werkdocument en beleidsmatige verkenning over optimale arbeidsparticipatie, arbeidsschaarste en maatschappelijke welvaart."
