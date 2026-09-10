@@ -10,7 +10,8 @@ De analyse verkent een alternatief beleidsdoel: **optimale arbeidsparticipatie**
 
 ## Wat staat hierin?
 
-- Het [rapport](rapport/optimale_arbeidsparticipatie.html), met een leesbare scenarioverkenning 2026-2046.
+- Het [HTML-rapport](rapport/optimale_arbeidsparticipatie.html), met een leesbare scenarioverkenning 2026-2046.
+- De [PDF-versie](rapport/van-welvaart-naar-welstand.pdf), geschikt om te lezen of af te drukken.
 - De [methodologie](docs/methodologie.md), inclusief aannames, rekenstappen en beperkingen.
 - Een controleerbaar [bronnenoverzicht](SOURCES.md).
 - Richtlijnen voor bijdragen in [CONTRIBUTING.md](CONTRIBUTING.md).
