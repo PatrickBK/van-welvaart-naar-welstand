@@ -11,8 +11,8 @@ De analyse verkent een alternatief beleidsdoel: **optimale arbeidsparticipatie**
 ## Wat staat hierin?
 
 Het rapport met een leesbare scenarioverkenning 2026-2046, als PDF en in OpenDocument formaat.
-- De [PDF-versie](rapport/optimale_arbeidsparticipatie.pdf), geschikt om te lezen op je scherm en papier.
-- De [Word-versie](rapport/optimale_arbeidsparticipatie.docx),, geschikt om in te werken. Zowel in MS Word, als Apple Pages en andere tekstverwerkers.
+- De [PDF-versie](rapport/optimale_arbeidsparticipatie.pdf), om te lezen op je scherm en papier.
+- De [Word-versie](rapport/optimale_arbeidsparticipatie.docx), om aan te werken in Word, Pages en andere tekstverwerkers.
 - De [methodologie](docs/methodologie.md), inclusief aannames, rekenstappen en beperkingen.
 - Een controleerbaar [bronnenoverzicht](SOURCES.md).
 - Richtlijnen voor bijdragen in [CONTRIBUTING.md](CONTRIBUTING.md).
