@@ -30,7 +30,7 @@ De oorspronkelijke inhoud is beschikbaar onder [CC BY 4.0](LICENSE.md). Raadplee
 ## Structuur
 
 ```text
-├── rapport/                 zelfstandig leesbaar HTML-rapport
+├── rapport/                 zelfstandig leesbaar PDF-rapport
 ├── docs/                    methode en aannames
 ├── SOURCES.md               bronnenregister
 ├── CITATION.cff             citeerbare metagegevens
