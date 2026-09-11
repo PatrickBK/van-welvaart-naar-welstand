@@ -1,6 +1,6 @@
 # Creative Commons Attribution 4.0 International
 
-Copyright 2026 Patrick Bos
+Copyright 2026 Patrick Bos Kessen
 
 Dit werk is gelicenseerd onder de **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
