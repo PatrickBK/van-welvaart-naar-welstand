@@ -43,4 +43,4 @@ Dit project pleit niet voor gedwongen terugtrekking van mensen uit betaalde arbe
 
 ## Toegankelijkheid
 
-Omdat GitHub misschien niet zo toegankelijk is, als handig voor maximale toegankelijkheid. Is deze beleidsmatige verkenning ook beschikbaar op Notion. https://app.notion.com/p/Van-welvaart-naar-welstand-3daa68b99c6f80398ac0fdb8af9b3d93
+Omdat GitHub misschien niet zo laagdrempelig is, als handig voor maximale toegankelijkheid. Is deze beleidsmatige verkenning ook beschikbaar op Notion. https://app.notion.com/p/Van-welvaart-naar-welstand-3daa68b99c6f80398ac0fdb8af9b3d93
