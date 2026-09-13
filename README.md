@@ -1,5 +1,9 @@
 # Van welvaart naar welstand
 
+## Toegankelijkheid
+
+Omdat GitHub misschien niet zo toegankelijk is, als handig voor maximale toegankelijkheid. Is deze beleidsmatige verkenning ook beschikbaar op Notion.
+
 ## Waarom maximale arbeidsparticipatie niet hetzelfde is als maximale maatschappelijke welvaart
 
 Een open werkdocument en beleidsmatige verkenning over de vraag hoe Nederland schaarse arbeid, tijd en zorg het best kan verdelen. Het centrale vertrekpunt is niet dat minder betaald werk per definitie beter is, maar dat maximale arbeidsparticipatie niet automatisch leidt tot maximale maatschappelijke welvaart.
